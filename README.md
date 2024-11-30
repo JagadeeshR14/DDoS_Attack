@@ -24,3 +24,7 @@ component in fortifying SDN against the pervasive threat of DDoS attack.
 
 ## ARCHITECTURE :
 ![Architecture_Diagram](https://github.com/user-attachments/assets/976b9ca1-12e3-456c-b383-e113221fe56d)
+There are the other Diagrams, Click [here](Diagram) to explore.
+
+## RESULT :
+Click [here](Result) to explore all the screenshot Results/Outputs of the project.
